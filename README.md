@@ -1,4 +1,4 @@
-# Linear-Regression-Implementation-Car-Dekho-Dataset-
+# Linear-Regression-Implementation-Car-Dekho-Dataset
 
 Objective
 ---
